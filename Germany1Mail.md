@@ -78,4 +78,16 @@ wca.airfreight@deugro.com
 rolf.weist@deugro.com
 danijel.gutesa@deugro.com
 helmut.diwo@deugro.com
+cosc@fortragroup.de
+renel@fortragroup.de
+info@insa-airandsea.com
+oliver.buell@insa-airandsea.com
+olaf.paulin@insa-airandsea.com
+mario.pasqua@intropa.de
+kurt.gerhard@intropa.de
+mario.pasqua@intropa.de
+martin.teichmeier@intropa.de
+lucas.kasper@intropa.de
+horst.horlbeck@intropa.de
+samson.bereket@intropa.de
 
