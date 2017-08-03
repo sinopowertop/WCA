@@ -49,3 +49,15 @@ ralf.sohnius@ils-wuppertal.de
 alexander.volkmer@ils-wuppertal.de
 alexander.strelow@ils-wuppertal.de
 dilek.strelow@ils-wuppertal.de
+marcel.benecke@wcl-shipping.com
+marcel.benecke@wcl-shipping.com
+rainer.fischer@wcl-shipping.com
+gaa.de@gondrand-logistics.com
+nancy.hill@gondrand-logistics.com
+anja.cummerow@gondrand-logistics.com
+info@angelfreight.de
+info@angelfreight.de
+s.glock@angelfreight.de
+j.grebert@angelfreight.de
+d.roth@angelfreight.de
+d.kiegeland@angelfreight.de
