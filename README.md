@@ -1,2 +1,0 @@
-# WCA
-Mail
