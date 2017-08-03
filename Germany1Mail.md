@@ -90,4 +90,13 @@ martin.teichmeier@intropa.de
 lucas.kasper@intropa.de
 horst.horlbeck@intropa.de
 samson.bereket@intropa.de
-
+wca@kaylalogistics.de
+gerd.bohrer@kaylalogistics.de
+heidi.noss@kaylalogistics.de
+info@menian.com
+meike.gutschner@menian.com
+kerstin.krause@menian.com
+lutz.rocholl@menian.com
+info@qualified-cargo-solutions.de
+andreas.preisendanz@qualified-cargo-solutions.de
+carsten.ehmke@qualified-cargo-solutions.de
