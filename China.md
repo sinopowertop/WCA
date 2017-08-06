@@ -60,4 +60,51 @@ wca@chq.ontime-express.com
 bjs.obd@leader-mutual.com.cn
 bjs.obd@leader-mutual.com.cn
 xing.cao@leader-mutual.com.cn
+bjs-linda@parisigs.com
+bjs-catherine@parisigs.com
+jeff@jctchina.com
+eva@jctchina.com
+ibd_dept@fcg.asia
+wangyue.bj@ctsfreight.com
+wangyue.bj@ctsfreight.com
+info@bestservices.com.cn
+ovs4.bjs@bestservices.com.cn
+ovs5.bjs@bestservices.com.cn
+gm.bjs@bestservices.com.cn
+felix_li@awotglobal.com
+sophia_zeng@awotglobal.com
+felix_li@awotglobal.com
+
+phoebe_yang@awotglobal.com
+bryan.liu@airfast.cn
+ops.pek@airfast.cn
+deer.bj@aircity.com.cn
+tony.bj@aircity.com.cn
+deer.bj@aircity.com.cn
+jameslee@ztbrilliant.com
+oliviayoung@ztbrilliant.com
+jandy.sun@zephyrlogistics.com
+christina.ma@zephyrlogistics.com
+
+cathyhou@tigerfreight.com.cn
+	tina@vonder.com.cn
+  	zhangming@vonder.com.cn
+    	zhengli@uni-data.com.cn
+      	luderui@uni-data.com.cn
+        gloria.he@transolution.com.cn
+        	gloria.he@transolution.com.cn
+          	zhangtao@transdragon.com.cn
+            	fengxs@transdragon.com.cn
+chenxiwen@sinotrans.com
+longxy@sinoair.com
+zhanggd@sinoair.com
+m2@sinowor.com
+m5@sinowor.com
+percy@stint.com.cn
+tony.lu@stint.com.cn
+sales1@stint.com.cn
+sales2@stint.com.cn
+agentservice@sharelogis.net
+wangjc@seatrade-usa.com
+yuanj@seatrade-usa.com
 
