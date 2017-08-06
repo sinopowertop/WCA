@@ -39,28 +39,25 @@ kassyge@utfreight.com
 hellenwang-sha@gotoubi.com
 janiffercao-sha@gotoubi.com
 sandrawu-sha@gotoubi.com
-	serenashi-sha@gotoubi.com
-  	sandrawu24@hotmail.com
-    
-    	lisa_lao@ads-logistics.com
-      	susan_liu@ads-logistics.com
-        
+serenashi-sha@gotoubi.com
+sandrawu24@hotmail.com
+lisa_lao@ads-logistics.com
+susan_liu@ads-logistics.com
 sylviatan@rhitl-log.com
-	ritazhao@rhitl-log.com
-  	riverliang@rhitl-log.com
-    	melissajiang@rhitl-log.com
-      maggieliu@rhitl-log.com
-      angelmiao@rhitl-log.com
-      sylviatan@rhitl-log.com
-      
-      bjs-linda@parisigs.com
-      	bjs-linda@parisigs.com
-        bjs-catherine@parisigs.com
-        	admin@parisigs.com
-          jinbo.chen@bjs.ontime-express.com
-          	joe.cheung@sha.ontime-express.com
-            	wca@chq.ontime-express.com
-              bjs.obd@leader-mutual.com.cn
-              	bjs.obd@leader-mutual.com.cn
-                xing.cao@leader-mutual.com.cn
-      
+ritazhao@rhitl-log.com
+riverliang@rhitl-log.com
+melissajiang@rhitl-log.com
+maggieliu@rhitl-log.com
+angelmiao@rhitl-log.com
+sylviatan@rhitl-log.com
+bjs-linda@parisigs.com
+bjs-linda@parisigs.com
+bjs-catherine@parisigs.com
+admin@parisigs.com
+jinbo.chen@bjs.ontime-express.com
+joe.cheung@sha.ontime-express.com
+wca@chq.ontime-express.com
+bjs.obd@leader-mutual.com.cn
+bjs.obd@leader-mutual.com.cn
+xing.cao@leader-mutual.com.cn
+
