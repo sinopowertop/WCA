@@ -1,1 +1,66 @@
 
+liusy@sinoair.com
+liuqi@sinoair.com
+wangzheng@sinoair.com
+hejun@sinoair.com
+susan_liu@ads-logistics.com
+cathy_wu@ads-logistics.com
+jinbo.chen@ctu.ontime-express.com
+leo.li@ctu.ontime-express.com
+wca@chq.ontime-express.com
+ctu.obd@leader-mutual.com.cn
+apple.yang@leader-mutual.com.cn
+leion.wang@leader-mutual.com.cn
+wcactu@jd-link.com
+cynthiawu@jd-link.com
+jocelynni@jd-link.com
+vivianzhang@jd-link.com
+lukejiang@jd-link.com
+andytu.cd@ctsfreight.com
+janechen.cd@ctsfreight.com
+jessica.cd@ctsfreight.com
+chengdu681@sinochaincargo.com
+chengdu680@sinochaincargo.com
+chengdu681@sinochaincargo.com
+info@fullviewlog.com
+kathy.quan@fullviewlog.com
+sophia.sx.zhou@jusdascm.com
+sophia.sx.zhou@jusdascm.com
+grace.sf.zeng@jusdascm.com
+jiayl@cetjd.com
+liying@cetjd.com
+marketing@coscoah.com
+guzhenglou@coscoah.com
+zhuxuan@coscoah.com
+jiangmin.hf@ctsfreight.com
+utbjs-wca@utfreight.com
+brucesun@utfreight.com
+kassyge@utfreight.com
+hellenwang-sha@gotoubi.com
+janiffercao-sha@gotoubi.com
+sandrawu-sha@gotoubi.com
+	serenashi-sha@gotoubi.com
+  	sandrawu24@hotmail.com
+    
+    	lisa_lao@ads-logistics.com
+      	susan_liu@ads-logistics.com
+        
+sylviatan@rhitl-log.com
+	ritazhao@rhitl-log.com
+  	riverliang@rhitl-log.com
+    	melissajiang@rhitl-log.com
+      maggieliu@rhitl-log.com
+      angelmiao@rhitl-log.com
+      sylviatan@rhitl-log.com
+      
+      bjs-linda@parisigs.com
+      	bjs-linda@parisigs.com
+        bjs-catherine@parisigs.com
+        	admin@parisigs.com
+          jinbo.chen@bjs.ontime-express.com
+          	joe.cheung@sha.ontime-express.com
+            	wca@chq.ontime-express.com
+              bjs.obd@leader-mutual.com.cn
+              	bjs.obd@leader-mutual.com.cn
+                xing.cao@leader-mutual.com.cn
+      
