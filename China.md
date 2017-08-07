@@ -108,3 +108,14 @@ agentservice@sharelogis.net
 wangjc@seatrade-usa.com
 yuanj@seatrade-usa.com
 
+sales.cc@fordpointer.com
+maryj.cc@fordpointer.com
+sylviatan@rhitl-log.com
+andrew.tan@creationcn.com
+canna.chen@creationcn.com
+leo.zhou@creationcn.com
+ff@hital.com
+lxm330@hital.com
+hf@high-forwarders.com
+eric.feng@high-goal.cn
+ 
