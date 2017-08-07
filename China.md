@@ -118,4 +118,27 @@ ff@hital.com
 lxm330@hital.com
 hf@high-forwarders.com
 eric.feng@high-goal.cn
+
+hcie@hc-ie.com
+nick@hc-ie.com
+joy@hc-ie.com
+marketing@general-logistics.cn
+marketing3@general-logistics.cn
+marketing4@general-logistics.cn
+opdg3@grand-freight.com
+hardy@grand-freight.com
+frank@grand-freight.com
+opdg3@grand-freight.com
+manny@link-trans.com
+nicky@link-trans.com
+market@link-trans.com
+manny@link-trans.com
+bob@chinapantom.com
+constance@chinapantom.com
+candy@chinapantom.com
+GMOF.SZX@bestservices.com.cn
+ovs13.szx@bestservices.com.cn
+overseas9@bestservices.com.cn
+jean@dolphin-dg.com
+sales.dg@fordpointer.com
  
