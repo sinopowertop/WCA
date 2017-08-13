@@ -7,3 +7,12 @@ kamil.trhlik@css-spedition.cz
 martin.krofta@css-spedition.cz
 wca@css-spedition.cz
 jan.kuzel@css-spedition.cz
+tomas@katoslog.cz
+stana@katoslog.cz
+karel@katoslog.cz
+subr@mediasped.cz
+airfreight@mediasped.cz
+seafreight@mediasped.cz
+lucie.skrepkova@cz.ilg-group.com
+andrea.jezkova@cz.ilg-group.com
+eva.winkler@abc-airsea.com
