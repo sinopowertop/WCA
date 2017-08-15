@@ -284,4 +284,8 @@ cecilia.wu.wenzhou@daynight-wz.com
 jessica.hu.wenzhou@daynight-wz.com
 glory0577@wzshipping.com
 
-
+ macau@united-atlanta.com
+ shenzhen@united-atlanta.com
+ ningbo@united-atlanta.com
+  tianjin@united-atlanta.com
+  shanghai@united-atlanta.com
