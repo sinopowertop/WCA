@@ -61,3 +61,94 @@ thierry@freightright.com
 tina@gclogisticsinc.com
 sales@gclogisticsinc.com
 GC Logistics, Inc./CA
+al.timaji@gcsg.us
+wca@gcsg.us
+dscar@glc-inc.com
+	jeff@glc-inc.com
+  	dtaza@glc-inc.com
+    	quotes@glc-inc.com
+      
+customerservice@hoyashipping.com
+jjbfreight@jjboyle.com
+gkodama@jjboyle.com
+kyoon@jjboyle.com
+bpark@jjboyle.com
+jeremyt@jtfreightsolutions.com
+petern@jtfreightsolutions.com
+johnny@logitechshipping.com
+liza@logitechshipping.com
+susan@maccontainer.com
+sal@maccontainer.com
+sales@mapcargo.com
+john@mapcargo.com
+elvie@mapcargo.com
+jarry@mapcargo.com
+frank@mgllax.com
+jim@mgllax.com
+freddy@mgllax.com
+
+	michael@nedrac.com
+  	emily@nedrac.com
+    eric@nedrac.com
+    	james@pacpet.com
+      angel@pacpet.com
+      	lax@powertrans-lax.com
+        john.park@powertrans-lax.com
+        sung@powertrans-lax.com
+quotes@mypremierelogistics.com
+kris@mypremierelogistics.com
+
+james.huang@qhublogistics.net
+jespher.santos@qhublogistics.net
+sales@rapidfreightinc.com
+import@rapidfreightinc.com
+export@rapidfreightinc.com
+air@rapidfreightinc.com
+patricka@senderex.com
+alan@senderex.com
+nelsony@sonic-shipping.com
+vickyw@sonic-shipping.com
+nelsony@sonic-shipping.com
+
+kang@soonestexpress.com
+dannyyang@soonestexpress.com
+jennyso@soonestexpress.com
+GKhodayar@transitair.com
+AKee@transitair.com
+
+albert@vizionlogistics.com
+ben@vizionlogistics.com
+tsimokat@acssan.com
+elaramie@acssan.com
+kellie@acssan.com
+sandiego.us@trumpcardinc.com
+ron.sayo@trumpcardinc.com
+wca_queries@dwmorgan.com
+kenny.choi@global-4pl.com
+sergio.retamal@global-4pl.com
+import.sfo@jsilogistics.com
+export.sfo@jsilogistics.com
+
+  cfs@novoexpress.com
+  helen.tran@dhx.com
+  jmendoza@novoexpress.com
+  rbermudez@novoexpress.com
+  Henry@novoexpress.com
+  claudia.lazo@premiergl.com
+  bob.buell@premiergl.com
+  edward-lax@pandalogusa.com
+  cooper@pandalogusa.com
+  kmao@air-city.com
+  ltanielu@air-city.com
+  pbromley@btxglobal.com
+  btx_accounting@btxglobal.com
+  payaccounts@btxglobal.com
+
+	susannay@ctsglobalsolutions.com
+  	lourdes_samonte@ctsi-logistics.com
+    	yvette_amuan@ctsi-logistics.com
+      	catherine_sarte@ctsi-logistics.com
+        	darby_resurreccion@ctsi-logistics.com
+          
+          
+CTSI Logistics, Inc.
