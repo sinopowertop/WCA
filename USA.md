@@ -87,14 +87,14 @@ frank@mgllax.com
 jim@mgllax.com
 freddy@mgllax.com
 
-	michael@nedrac.com
-  	emily@nedrac.com
-    eric@nedrac.com
-    	james@pacpet.com
-      angel@pacpet.com
-      	lax@powertrans-lax.com
-        john.park@powertrans-lax.com
-        sung@powertrans-lax.com
+michael@nedrac.com
+emily@nedrac.com
+eric@nedrac.com
+james@pacpet.com
+angel@pacpet.com
+lax@powertrans-lax.com
+john.park@powertrans-lax.com
+sung@powertrans-lax.com
 quotes@mypremierelogistics.com
 kris@mypremierelogistics.com
 
@@ -129,26 +129,46 @@ sergio.retamal@global-4pl.com
 import.sfo@jsilogistics.com
 export.sfo@jsilogistics.com
 
-  cfs@novoexpress.com
-  helen.tran@dhx.com
-  jmendoza@novoexpress.com
-  rbermudez@novoexpress.com
-  Henry@novoexpress.com
-  claudia.lazo@premiergl.com
-  bob.buell@premiergl.com
-  edward-lax@pandalogusa.com
-  cooper@pandalogusa.com
-  kmao@air-city.com
-  ltanielu@air-city.com
-  pbromley@btxglobal.com
-  btx_accounting@btxglobal.com
-  payaccounts@btxglobal.com
+cfs@novoexpress.com
+helen.tran@dhx.com
+jmendoza@novoexpress.com
+rbermudez@novoexpress.com
+Henry@novoexpress.com
+claudia.lazo@premiergl.com
+bob.buell@premiergl.com
+edward-lax@pandalogusa.com
+cooper@pandalogusa.com
+kmao@air-city.com
+ltanielu@air-city.com
+pbromley@btxglobal.com
+btx_accounting@btxglobal.com
+payaccounts@btxglobal.com
 
-	susannay@ctsglobalsolutions.com
-  	lourdes_samonte@ctsi-logistics.com
-    	yvette_amuan@ctsi-logistics.com
-      	catherine_sarte@ctsi-logistics.com
-        	darby_resurreccion@ctsi-logistics.com
-          
-          
+susannay@ctsglobalsolutions.com
+lourdes_samonte@ctsi-logistics.com
+yvette_amuan@ctsi-logistics.com
+catherine_sarte@ctsi-logistics.com
+darby_resurreccion@ctsi-logistics.com
+
+
 CTSI Logistics, Inc.
+	lax@expressairfreight.com
+		brian@expressairlax.com
+		
+davidl.la@fordpointer.com
+pambrown@usffcl.com
+wcausimports@usffcl.com 
+simon.lax@headwin.com
+laximport@jsilogistics.com
+laxexport@jsilogistics.com
+
+pricing@motherlines.com
+lax1ops@platinumcargo.com
+laxsales@priorityworldwide.com
+imports@priorityworldwide.com
+sales@priorityworldwide.com
+jthai@adcomworldwide.com
+alee@adcomworldwide.com
+jhackstadt.exo@radiantdelivers.com
+
+RADIANT/Adcom Worldwide
