@@ -172,3 +172,124 @@ alee@adcomworldwide.com
 jhackstadt.exo@radiantdelivers.com
 
 RADIANT/Adcom Worldwide
+tammy.durten@teamww.com
+david.henry@teamww.com
+bob.imbriani@teamww.com
+chris.madsen@teamww.com
+general@twlintl.com
+beata.przygoda@twlintl.com
+hedyge@sh.vinpac.com
+janenguyen@la.vinpac.com
+pricing@la.vinpac.com
+
+dkemmer@btxglobal.com
+btx_accounting@btxglobal.com
+	smf@adcomworldwide.com
+	jhackstadt.exo@radiantdelivers.com
+	
+
+INTL@cagneyglobal.com
+geoffb@capwwide.com
+mmckinzie@btxglobal.com
+jhackstadt.exo@radiantdelivers.com
+
+
+rbacarella@btxglobal.com
+simon@anteklogistics.com
+cargo@farrischb.com
+sdep@oglus.com
+amaldonado@landstar.com
+jmcinnis@landstar.com
+georgette@acicargo.com
+dayami.lorenzo@acicargo.com
+
+karla@amadlogistics.com
+raul@amadlogistics.com
+info.mia@sistemasaereos.us
+
+orestes@amexlogistics.net
+cristina.lang@ansamcalus.com
+cristina.lang@ansamcalus.com
+graziella@caneicargo.com
+freight@cargomaxworld.com
+mlitardo@cargomaxworld.com
+jahues@cictrading.com
+pconner@cff-inc.com
+fberson@cff-inc.com
+mglass@cff-inc.com
+andres@dlmia.com
+sandra@dlmia.com
+
+	ovazquez@floridaforwarding.com
+	o.r.vazquez@floridaforwarding.com
+	samir@floridatradeco.com
+	ricardos@floridatradeco.com
+	rommel@floridatradeco.com
+	alexis@floridatradeco.com
+	justo.aguiar@focuscargo.com
+	nubia.tavares@focuscargo.com
+	adriana.medeiros@focuscargo.com
+
+jose.aguayo@forbislogistics.com
+miguel.alarcon@forbislogistics.com
+jorge.devoto@forbislogistics.com
+rfranco@francoshipping.com
+ereynoso@francoshipping.com
+Rodrigo@gfsimport-export.com
+mario@gfsimport-export.com
+a.leston@ground-cargo.com
+c.ayala@ground-cargo.com
+
+
+carsten@hyh-cargo.com
+hans@hyh-cargo.com
+ricardo.sato@hercoinc.com
+kesia.pompeu@hercoinc.com
+renato.neumann@hercoinc.com
+wca@intergloballogistics.com
+fgomati@interworldfreight.com
+mhernandez@interworldfreight.com
+izzicontact@izzilogistics.com
+juanlara@izzilogistics.com
+vivianamurcia@izzilogistics.com
+
+t.deoliveira@jdbrokers.net
+j.delapaz@jdbrokers.net
+imports@kcarlton.com
+exports@kcarlton.com
+k.carlton@kcarlton.com
+hdelara@kglogistics.com
+rmenendez@kglogistics.com
+avaldano@krystalusa.com
+imports@krystalusa.com
+erica.briceno@lotrading.com
+manuela.avila@lotrading.com
+wcafamily@laparkan.com
+
+
+amartinez@latamcargousa.com
+lfiano@latamcargousa.com
+mike@limcologistics.com
+lana@limcologistics.com
+agiraldo@lfs-inc.com
+cjimenez@lfs-inc.com
+ajaramillo@lfs-inc.com
+pricing@ltlcargo.com
+gcreech@mifs4u.com
+jorge.espinoza@navycargousa.com
+ligdey.rivas@navycargousa.com
+mauricio@pmboxcargo.com
+jose.martinez@proexportlogistics.com
+schacin@segaduancausa.com
+accounting@segaduancausa.com
+overseas@tecnoshipgroup.com
+joserodriguez@tecnoshipgroup.com
+emergencywca@tecnoshipgroup.com
+marcus@tws-mia.com
+contact@transfreight-intl.com
+glenda@transfreight-intl.com
+konny@unitedglobecargo.com; 
+sales@unitedglobecargo.com
+purchasing@unitedglobecargo.com
+
+United Globe Cargo
