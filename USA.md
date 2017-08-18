@@ -220,15 +220,15 @@ mglass@cff-inc.com
 andres@dlmia.com
 sandra@dlmia.com
 
-	ovazquez@floridaforwarding.com
-	o.r.vazquez@floridaforwarding.com
-	samir@floridatradeco.com
-	ricardos@floridatradeco.com
-	rommel@floridatradeco.com
-	alexis@floridatradeco.com
-	justo.aguiar@focuscargo.com
-	nubia.tavares@focuscargo.com
-	adriana.medeiros@focuscargo.com
+ovazquez@floridaforwarding.com
+o.r.vazquez@floridaforwarding.com
+samir@floridatradeco.com
+ricardos@floridatradeco.com
+rommel@floridatradeco.com
+alexis@floridatradeco.com
+justo.aguiar@focuscargo.com
+nubia.tavares@focuscargo.com
+adriana.medeiros@focuscargo.com
 
 jose.aguayo@forbislogistics.com
 miguel.alarcon@forbislogistics.com
@@ -292,4 +292,45 @@ konny@unitedglobecargo.com;
 sales@unitedglobecargo.com
 purchasing@unitedglobecargo.com
 
-United Globe Cargo
+fpuga@vecologistics.com
+ebarreiro@vecologistics.com
+chenao@wessco.com
+sgazitua@wtdc.com
+cortiz@mifi.com
+info@mifi.com
+norman.mahler@qualitylogistics.us
+rstemmler@allworldshipping.com
+gdebow@allworldshipping.com
+lgreen@allworldshipping.com
+tsamoila@landstar-agent.com
+tsamoila@landstar-agent.com
+dison@landstar-agent.com
+msamoila@landstar-agent.com	
+freightus@airpartner.com
+tsamoila@landstar-agent.com
+msamoila@landstar-agent.com
+
+kmorrison@landstar-agent.com
+teamjax@teamww.com
+donna.spurlock@teamww.com
+doris.damonmach@teamww.com
+gdonaldson@navigatorshipping.com
+savage@clearfreight.com
+peter@clearfreight.com
+sales.mia@dbgroup.net
+rates@delmarusa.com
+egl@egl-usa.us
+leo.bacach@egl-usa.us
+pricing@egl-usa.us
+efwmia@efwnow.com
+jaime.cabrera@efwnow.com
+casandra.castro@efwnow.com
+mia@expressairfreight.com
+rortiz@expressairfreight.com
+danny@glc-inc.com
+glcmia@glc-inc.com
+quotes@glc-inc.com
+operations@delpaintl.com
+pricing@delpagroup.com
+daniel.urra@delpaintl.com
+Grupo Delpa Corp
