@@ -215,7 +215,7 @@ om05@fafalux.com
 om10@fafalux.com
 om09@fafalux.com
 mkt01-can@ghl-logistics.com
-tomson@ghl-logistics.com@ghl-logistics.com
+tomson@ghl-logistics.com
 tomson@ghl-logistics.com
 jliu.szx@ghl-logistics.com
 yzhang.szx@ghl-logistics.com
