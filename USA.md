@@ -334,3 +334,20 @@ operations@delpaintl.com
 pricing@delpagroup.com
 daniel.urra@delpaintl.com
 Grupo Delpa Corp
+
+raymond.wu@hicargo.com
+carolyn.mitchell@hicargo.com
+agents.us@icontainers.com
+roberto.laurino@icontainers.com
+placido.sanchez@ilscargogroup.com
+douglas.quadros@ilscargogroup.com
+wca@ilscargogroup.com
+img@imgmiami.com
+fernando.jimenez@landstarmail.com
+harald.oechsner@mbsusa.net
+steve@novoexpress.com
+sales@natprolog.com
+cfs@novoexpress.com
+Patricia.altmann@oiaglobal.com
+		jiyoung.duke@hicargo.com
+		OIA Global 
