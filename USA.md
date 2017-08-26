@@ -419,3 +419,4 @@ pricing@delpagroup.com
 edelacruz@delpaintl.com
 wurra@delpaintl.com
 
+Grupo Delpa Corp
