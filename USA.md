@@ -151,10 +151,10 @@ catherine_sarte@ctsi-logistics.com
 darby_resurreccion@ctsi-logistics.com
 
 
-CTSI Logistics, Inc.
-	lax@expressairfreight.com
-		brian@expressairlax.com
-		
+
+lax@expressairfreight.com
+brian@expressairlax.com
+
 davidl.la@fordpointer.com
 pambrown@usffcl.com
 wcausimports@usffcl.com 
