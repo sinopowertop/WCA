@@ -493,5 +493,26 @@ mcuomo@page-int.com
 michelle.ridgway@teamww.com
 michelle.campos@teamww.com
 										
-										
+robert.kokuzo@dhx.com
 
+eva@atishipping.com
+steven@atishipping.com
+peter@atishipping.com
+D.Mongello@AetnaLogisticsGroup.com
+G.Harusha@AetnaLogisticsGroup.com
+operations@airgroundlogisticsinc.com
+bsparks@airgroundlogisticsinc.com
+dwhite@airgroundlogisticsinc.com
+jodisho@aitworldwide.com
+jangelo@aitworldwide.com
+joe@bellair.com
+becht5@comcast.net
+tom@camelotcompany.com
+kcase@camelotcompany.com
+rates@cbclogistics.com
+peter@cbclogistics.com
+russell.kazmierczak@clutchgl.com
+USFCLOceanExports@clutchgl.com
+USFCLOceanImports@clutchgl.com
+USAirImports@clutchgl.com
+USRoadImports@clutchgl.com
