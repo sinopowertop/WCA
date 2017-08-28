@@ -683,4 +683,46 @@ rajiv@eglmaritime.com
 rates@gulfamerican.com
 ship@gulfamerican.com
 
+imalnyc@wwllmail.com
+peacock@imalonline.com
+mshah@imalonline.com
+sales@axisg.com
+jlopresti@axisg.com
+joeg@axisg.com
+kmiah@axisg.com
+joseph.funaro@inttra.com
+rina.dias@inttra.com
+cs.usa@seagull-global.com
+siddharth.khera@seagull-global.com
+bryanf@sintra-usa.com
+sherman@skyferlogistic.com
+raj.abey@skyferlogistic.com
+georges@stjohnlogistics.net
+stjohn@stjohngroup.net
+sevgi.cebe@barsan.com
+sevgi.cebe@barsan.com
+kamile.kozig@barsan.com
+
+remon@pyramidsfreight.com
+nermeen@pyramidsfreight.com
+joseph@pyramidsfreight.com
+nm@globalforwarding.com
+elazar.grinstein@cnwglobal.com
+silvia@7seas-scm.com
+hector@7seas-scm.com
+jessenia@7seas-scm.com
+elaine@actlogisticsinc.com
+yoav@alisontransport.com
+janko@allroundusa.com
+hatto.dachgruber@allroundusa.com
+pat.lally@alomartransport.com
+pat.lally@alomartransport.com
+
+	srodriguez@ambassadorl.com
+		jfk.intl@agsystems.com
+			jfk.intl@agsystems.com
+				agscustoms@agsystems.com
+					jason.zhang@baylinkusa.com
+					
+					Baylink Shipping Inc  ny
 
