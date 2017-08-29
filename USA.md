@@ -728,7 +728,6 @@ fcipollone@cargotours.com
 jhernandez@cargotours.com
 limperioli@cargotours.com
 sbudhan@cargotours.com
-kevin@ctigl.com
 rates@cargosave.com
 sales@cargosave.com
 evan@classicfreightgroup.com
