@@ -718,11 +718,29 @@ hatto.dachgruber@allroundusa.com
 pat.lally@alomartransport.com
 pat.lally@alomartransport.com
 
-	srodriguez@ambassadorl.com
-		jfk.intl@agsystems.com
-			jfk.intl@agsystems.com
-				agscustoms@agsystems.com
-					jason.zhang@baylinkusa.com
+srodriguez@ambassadorl.com
+jfk.intl@agsystems.com
+jfk.intl@agsystems.com
+agscustoms@agsystems.com
+jason.zhang@baylinkusa.com
 					
-					Baylink Shipping Inc  ny
+fcipollone@cargotours.com
+jhernandez@cargotours.com
+limperioli@cargotours.com
+sbudhan@cargotours.com
+kevin@ctigl.com
+rates@cargosave.com
+sales@cargosave.com
+evan@classicfreightgroup.com
+jorge@columbialogistics.com
+brian@contamarshipping.com
+joseph@contamarshipping.com
+info@corbettintl.com
+leahrosen@encship.com
+mr@encship.com
+cdlt@skylinefreight.com
+rhowitt@expressairfreight.com
+
+glenda@goforwardny.com
+	leo@goforwardny.com
 
