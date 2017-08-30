@@ -169,8 +169,6 @@ sales@priorityworldwide.com
 jthai@adcomworldwide.com
 alee@adcomworldwide.com
 jhackstadt.exo@radiantdelivers.com
-
-RADIANT/Adcom Worldwide
 tammy.durten@teamww.com
 david.henry@teamww.com
 bob.imbriani@teamww.com
