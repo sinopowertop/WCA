@@ -60,7 +60,6 @@ robert@freightright.com
 thierry@freightright.com
 tina@gclogisticsinc.com
 sales@gclogisticsinc.com
-GC Logistics, Inc./CA
 al.timaji@gcsg.us
 wca@gcsg.us
 dscar@glc-inc.com
