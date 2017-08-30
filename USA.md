@@ -330,8 +330,6 @@ quotes@glc-inc.com
 operations@delpaintl.com
 pricing@delpagroup.com
 daniel.urra@delpaintl.com
-Grupo Delpa Corp
-
 raymond.wu@hicargo.com
 carolyn.mitchell@hicargo.com
 agents.us@icontainers.com
