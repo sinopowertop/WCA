@@ -725,7 +725,6 @@ limperioli@cargotours.com
 sbudhan@cargotours.com
 rates@cargosave.com
 sales@cargosave.com
-evan@classicfreightgroup.com
 jorge@columbialogistics.com
 brian@contamarshipping.com
 joseph@contamarshipping.com
