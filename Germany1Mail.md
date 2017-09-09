@@ -41,7 +41,7 @@ m.hohenadler@utk-cgn.de
 a.lahmeyer@utk-cgn.de
 h.kann@utk-cgn.de
 wca@ict-cargo.com
-wca@ict-cargo.com; isari@ict-cargo.com
+isari@ict-cargo.com
 pkleingrothe@ict-cargo.com
 dispo@ils-wuppertal.de
 dispo@ils-wuppertal.de
@@ -284,3 +284,4 @@ frank.loesel@streck.de
 infomuc@transportandservice.de
 ahaug@transportandservice.de
 CHoffmann@transportandservice.de
+ruediger.beckmann@kroll-international.de 
