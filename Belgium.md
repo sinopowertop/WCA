@@ -16,26 +16,26 @@ patrickk@gosselingroup.eu
 lieved@gosselingroup.eu
 veerled@gosselingroup.eu
 martinev@gosselingroup.eu
-  sales@interfreight.be
-  sales2@oclf.be
-  ad@oclf.be
-  tem@oclf.be
-  erik.keustermans@remant.be
-  tom.ven@remant.be
-  ingrid.van.bael@remant.be
-  barbara.lemm@remant.be
-  paola.laurens@remant.be
-  koen.matthys@remant.be
-  johnny.van.olmen@remant.be
-  hans.vercruyssen@remant.be
-  betul.toptas@remant.be
-  betul.kaya@remant.be
-  els.hauspie@remant.be
-  eveline.quintelier@remant.be
-  jef.raeymaekers@remant.be
-  johan.verhas@remant.be
-  mitch.daems@remant.be
-  
+sales@interfreight.be
+sales2@oclf.be
+ad@oclf.be
+tem@oclf.be
+erik.keustermans@remant.be
+tom.ven@remant.be
+ingrid.van.bael@remant.be
+barbara.lemm@remant.be
+paola.laurens@remant.be
+koen.matthys@remant.be
+johnny.van.olmen@remant.be
+hans.vercruyssen@remant.be
+betul.toptas@remant.be
+betul.kaya@remant.be
+els.hauspie@remant.be
+eveline.quintelier@remant.be
+jef.raeymaekers@remant.be
+johan.verhas@remant.be
+mitch.daems@remant.be
+
 gregory.moortgat@denycargo.be
 gregory.moortgat@denycargo.be
 petra@denycargo.be
@@ -61,25 +61,25 @@ phil@ajimex.be
 bernard@ajimex.be
 tristelle@ajimex.be
 
-	forwarding.zbg@icoterminals.com
-  	raymond.troch@icoterminals.com
-    steven.michiels@icoterminals.com
-    	beanr@abc-airsea.com
-      	eva.winkler@abc-airsea.com
-        ajessous@allport-bansard.com
-        jmbenattar@bansard.com
-        	jamassida@bansard.com
-          edwig.laenen@challenge-int.be
-          	jeroen.herrebosch@challenge-int.be
-            erwin.de-smet@challenge-int.be
-            philippe.daems@challenge-int.be
-            
-            c.klein@fastforwardfreight.com
-            anr@fastforwardfreight.com
-            	salessea@fastforwardfreight.com
-              	j.swildens@fastforwardfreight.com
-                s.boussemaere@fastforwardfreight.com
-                
+forwarding.zbg@icoterminals.com
+raymond.troch@icoterminals.com
+steven.michiels@icoterminals.com
+beanr@abc-airsea.com
+eva.winkler@abc-airsea.com
+ajessous@allport-bansard.com
+jmbenattar@bansard.com
+jamassida@bansard.com
+edwig.laenen@challenge-int.be
+jeroen.herrebosch@challenge-int.be
+erwin.de-smet@challenge-int.be
+philippe.daems@challenge-int.be
+
+c.klein@fastforwardfreight.com
+anr@fastforwardfreight.com
+salessea@fastforwardfreight.com
+j.swildens@fastforwardfreight.com
+s.boussemaere@fastforwardfreight.com
+
 forwarding.anr@icoterminals.com
 fanny.lampo@icoterminals.com
 rcsaker@stjohnlogistics.net
