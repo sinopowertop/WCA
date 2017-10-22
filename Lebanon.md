@@ -1,11 +1,101 @@
-	headoffice@abc-shipping.com
-  sami@abc-shipping.com
-  	claire@abc-shipping.com
-    	salah@abc-shipping.com
-      dania@abc-shipping.com
-      mohammad@abc-shipping.com
-      aline@black-blues.com
-      samah@black-blues.com
-      habib@black-blues.com
-      	samah@black-blues.com
-        	aline@black-blues.com
+headoffice@abc-shipping.com
+sami@abc-shipping.com
+claire@abc-shipping.com
+salah@abc-shipping.com
+dania@abc-shipping.com
+mohammad@abc-shipping.com
+aline@black-blues.com
+samah@black-blues.com
+habib@black-blues.com
+samah@black-blues.com
+aline@black-blues.com
+mail@bouerifreightservices.com
+lena@bouerifreightservices.com
+amira@bouerifreightservices.com
+nicolas.d@cargopro-lb.com
+samira.samarany@cargopro-lb.com
+suzanne.sarkis@cargopro-lb.com
+info@cargopro-lb.com
+basbous.samah@cargopro-lb.com
+johnny.obeid@cargopro-lb.com
+inquiry@destinators.com
+info@elctransport.com
+freight@elctransport.com
+quality@elctransport.com
+accounting@elctransport.com 
+pharma@elctransport.com
+ekachouh@elctransport.com
+rkhoueiry@elctransport.com
+ops@freightzoneint.com
+cs@freightzoneint.com
+e.akiki@freightzoneint.com
+s.halawi@freightzoneint.com
+ytkaissi@gts.com.lb
+amerkaissi@gts.com.lb
+ops@freightzoneint.com
+cs@freightzoneint.com
+e.akiki@freightzoneint.com
+s.halawi@freightzoneint.com
+gezairi@gezairi.com
+eshamsy@gezairi.com
+rmunther@gezairi.com
+nkadous@gezairi.com
+rbaydoun@gezairi.com
+jmerheb@gezairi.com
+rates@gifco.com
+ceo.offshore@gifco.com
+csup@globalaimgats.com
+ji@globalaimts.com
+kaf@globalaimgats.com
+mkt@gcfleb.com
+halim.aoude@globeexpress.com
+kabbani@kabbani.com 
+wael@kabbani.com
+hassan@kabbani.com
+m.badreldin@kabbani.com  
+airfreight@kabbani.com  
+oceanfreight@kabbani.com  
+accounting@kabbani.com 
+travel@kabbani.com
+waeldaher@lalevantine.com
+traffic@lalevantine.com
+admin@lalevantine.com
+operations@lalevantine.com
+maha@lalevantine.com
+leadership@leadershipsarl.com
+ziad@leadershipsarl.com
+sales@leadershipsarl.com
+ali@mmashipping.com  
+info@mmashipping.com
+info@pfs-lb.com
+samer@pfs-lb.com
+fadia@pfs-lb.com
+zakaria@pfs-lb.com
+mira.aghnatios@redgloballogistics.com
+sleiman.jaber@redgloballogistics.com
+souheil.jaber@redgloballogistics.com
+pauline.saade@redgloballogistics.com
+michel.mansour@redgloballogistics.com
+wemovecargo@ngrouponline.com
+h.nader@ngrouponline.com
+f.nader@ngrouponline.com
+a.hatem@saadcargo.com
+a.hatem@saadtransport.com
+customerservices@seaskyservices.com
+salesmgt@seaskyservices.com
+erca@seaskyservices.com
+management@seaskyservices.com
+mourad.aoun@thenetlogistics.com
+mourad.aoun@thenetlogistics.com
+maral.sassine@thenetlogistics.com
+claudia.ojeil@thenetlogistics.com
+dina.seaifan@thenetlogistics.com
+lara.semerjian@thenetlogistics.com
+operationsbeirut@transporters-sal.com
+jdagher@transporters-sal.com
+yshaaban@transporters-sal.com
+pascale.matta@thenetexpress.com
+claudia.ojeil@thenetexpress.com
+maral.sassine@thenetexpress.com
+
+ 
