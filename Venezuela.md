@@ -59,3 +59,8 @@ overseas.slylogistics@gmail.com
 alfredosanchez@totalviax.com
 wcafamily@totalviax.com
 mariapaz@totalviax.com
+wca@vilca.com.ve
+maracaibo@totalviax.com
+alfredosanchez@totalviax.com
+wcafamily@totalviax.com
+mariapaz@totalviax.com
