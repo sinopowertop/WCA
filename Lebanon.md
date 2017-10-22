@@ -1,0 +1,11 @@
+	headoffice@abc-shipping.com
+  sami@abc-shipping.com
+  	claire@abc-shipping.com
+    	salah@abc-shipping.com
+      dania@abc-shipping.com
+      mohammad@abc-shipping.com
+      aline@black-blues.com
+      samah@black-blues.com
+      habib@black-blues.com
+      	samah@black-blues.com
+        	aline@black-blues.com
