@@ -56,3 +56,6 @@ controldeequipos@slylogistics.com.ve
 controldeequipos@gmail.com
 overseas@slylogistics.com.ve
 overseas.slylogistics@gmail.com
+alfredosanchez@totalviax.com
+wcafamily@totalviax.com
+mariapaz@totalviax.com
