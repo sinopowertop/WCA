@@ -39,6 +39,14 @@ admon.sly@gmail.com
 finanzas@slylogistics.com.ve
 oalvarado52@gmail.com
 finanzas2@slylogistics.com.ve
+	aacive@zieglercompany.com
+  	presidencia@zieglercompany.com
+    	nmarin@tecnoshipgroup.com
+      operadorlogistico@tecnoshipgroup.com
+      	guamache@totalviax.com
+        alfredosanchez@totalviax.com
+        mariapaz@totalviax.com
+        wcafamily@totalviax.com
 finanzas2.slygroup@gmail.com
 finanzas4@slylogistics.com.ve
 finanzas4.slygroup@gmail.com
