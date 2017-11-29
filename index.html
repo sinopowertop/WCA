@@ -41,11 +41,12 @@ tr,td{
     <td height=200px><a href="zc1.html">《公路建设管理办法》</a></td>  
   </tr>
 </table>
+	<h2>AJAX DEMO</h2>
+<button type="button" onclick="loadXMLDoc()">请求数据</button>
+<div id="myDiv"></div>
 						
 </body>
-	<html>
-<head>
-<script type="text/javascript">
+	<script type="text/javascript">
 function loadXMLDoc()
 {
 var xmlhttp;
@@ -68,14 +69,5 @@ xmlhttp.open("GET","/ajax/demo_get.asp?t=" + Math.random(),true);
 xmlhttp.send();
 }
 </script>
-</head>
-<body>
-
-<h2>AJAX TEST</h2>
-<button type="button" onclick="loadXMLDoc()">请求数据</button>
-<div id="myDiv"></div>
-
-</body>
-</html>
 
 </html>
