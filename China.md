@@ -289,3 +289,56 @@ glory0577@wzshipping.com
  ningbo@united-atlanta.com
   tianjin@united-atlanta.com
   shanghai@united-atlanta.com
+   info-fe@ifbgroup.net 
+
+info-kh@ifbgroup.net
+
+ info-dgcn@ifbgroup.net.cn 
+
+ info-fscn@ifbgroup.net.cn 
+
+info-fzcn@ifbgroup.net.cn
+
+ info-gzcn@ifbgroup.net.cn 
+
+info-hzcn@ifbgroup.net.cn
+ air-hk@ifbgroup.net 
+
+info-njcn@ifbgroup.net.cn
+
+info-nbcn@ifbgroup.net.cn
+
+info-qdcn@ifbgroup.net.cn
+
+info-shcn@ifbgroup.net.cn
+ info-sucn@ifbgroup.net.cn 
+ info-sucn@ifbgroup.net.cn 
+
+ info-sdcn@ifbgroup.net.cn 
+info-tw@ifbgroup.net 
+info-tptw@ifbgroup.net 
+
+ info-tctw@ifbgroup.net 
+
+ info-khtw@ifbgroup.net 
+
+ info-tjcn@ifbgroup.net.cn 
+
+ info-whcn@ifbgroup.net.cn 
+
+info-xmcn@ifbgroup.net.cn 
+
+info-nbcn@ifbgroup.net.cn
+
+info-zhcn@ifbgroup.net.cn
+
+ info-zscn@ifbgroup.net.cn 
+
+ info-id@ifbgroup.net 
+
+sales-id@ifbgroup.net
+
+salessupport-srgid@ifbgroup.net
+
+sales-subid@ifbgroup.net 
+  
