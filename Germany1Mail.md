@@ -285,3 +285,16 @@ infomuc@transportandservice.de
 ahaug@transportandservice.de
 CHoffmann@transportandservice.de
 ruediger.beckmann@kroll-international.de 
+ info-be@ifbgroup.net  
+ info@france-ifbgroup.net
+s.rossignol@france-ifbgroup.net 
+ o.metayer@france-ifbgroup.net 
+ l.cortijo@france-ifbgroup.net 
+info-de@ifbgroup.net
+ info-brde@ifbgroup.net 
+ info-pl@ifbgroup.net 
+ info-pl@ifbgroup.net 
+ info-pl@ifbgroup.net 
+ info-pl@ifbgroup.net 
+ info-es@ifbgroup.net 
+ info-es@ifbgroup.net 
