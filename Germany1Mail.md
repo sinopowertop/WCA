@@ -298,3 +298,6 @@ info-de@ifbgroup.net
  info-pl@ifbgroup.net 
  info-es@ifbgroup.net 
  info-es@ifbgroup.net 
+ 	nicolas-fe@ifbgroup.net
+  	michelle-fe@ifbgroup.net
+   	info@ifbgroup.net
