@@ -1,0 +1,9 @@
+logistics@basulaimgroup.com
+logistics-ops@basulaimgroup.com
+account@basulaimgroup.com
+info@packford.com
+packford@yemen.net.ye
+packfordint@y.net.ye
+saleh@packford.com
+saleh@packford.com
+info@packford.com
