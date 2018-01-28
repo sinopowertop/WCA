@@ -1,0 +1,9 @@
+sales@speedlinkcargo.com
+wcaenquiries@amiafrica.com
+lizwe@veerfreight.co.zw
+sales@veerfreight.co.zw
+patricia@veerfreight.co.zw
+blessed@veerfreight.co.zw
+operations@veerfreight.co.zw
+wca@alheelam.com
+wcaenquiries@amiafrica.com
