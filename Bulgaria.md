@@ -61,3 +61,10 @@ varna@freeline.bg
 sales@freeline.bg
 bdvmanager@wto.bg
 manager_burgas@wto.bg
+georgi.gilev@abc-airsea.com
+trifon.manov@abc-airsea.com
+kristin.manukova@abc-airsea.com
+radina.filipova@abc-airsea.com
+Alexander.Spasov@abc-airsea.com
+kostadin.stoyanov@abc-airsea.com
+desislava.pencheva@abc-airsea.com 
