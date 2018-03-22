@@ -283,69 +283,59 @@ gary.wang.wenzhou@daynight-wz.com
 cecilia.wu.wenzhou@daynight-wz.com
 jessica.hu.wenzhou@daynight-wz.com
 glory0577@wzshipping.com
-
- macau@united-atlanta.com
- shenzhen@united-atlanta.com
- ningbo@united-atlanta.com
-  tianjin@united-atlanta.com
-  shanghai@united-atlanta.com
-   info-fe@ifbgroup.net 
-
+macau@united-atlanta.com
+shenzhen@united-atlanta.com
+ningbo@united-atlanta.com
+tianjin@united-atlanta.com
+shanghai@united-atlanta.com
+info-fe@ifbgroup.net 
 info-kh@ifbgroup.net
-
- info-dgcn@ifbgroup.net.cn 
-
- info-fscn@ifbgroup.net.cn 
-
+info-dgcn@ifbgroup.net.cn 
+info-fscn@ifbgroup.net.cn 
 info-fzcn@ifbgroup.net.cn
-
- info-gzcn@ifbgroup.net.cn 
-
+info-gzcn@ifbgroup.net.cn 
 info-hzcn@ifbgroup.net.cn
- air-hk@ifbgroup.net 
-
+air-hk@ifbgroup.net 
 info-njcn@ifbgroup.net.cn
-
 info-nbcn@ifbgroup.net.cn
-
 info-qdcn@ifbgroup.net.cn
-
 info-shcn@ifbgroup.net.cn
- info-sucn@ifbgroup.net.cn 
- info-sucn@ifbgroup.net.cn 
-
- info-sdcn@ifbgroup.net.cn 
+info-sucn@ifbgroup.net.cn 
+info-sucn@ifbgroup.net.cn 
+info-sdcn@ifbgroup.net.cn 
 info-tw@ifbgroup.net 
 info-tptw@ifbgroup.net 
-
- info-tctw@ifbgroup.net 
-
- info-khtw@ifbgroup.net 
-
- info-tjcn@ifbgroup.net.cn 
-
- info-whcn@ifbgroup.net.cn 
-
+info-tctw@ifbgroup.net 
+info-khtw@ifbgroup.net 
+info-tjcn@ifbgroup.net.cn 
+info-whcn@ifbgroup.net.cn 
 info-xmcn@ifbgroup.net.cn 
-
 info-nbcn@ifbgroup.net.cn
-
 info-zhcn@ifbgroup.net.cn
-
- info-zscn@ifbgroup.net.cn 
-
- info-id@ifbgroup.net 
-
+info-zscn@ifbgroup.net.cn 
+info-id@ifbgroup.net 
 sales-id@ifbgroup.net
-
 salessupport-srgid@ifbgroup.net
-
 sales-subid@ifbgroup.net 
-   info-my@ifbgroup.net 
- info-my@ifbgroup.net 
- shawn-sg@ifbgroup.net 
- info-sg@ifbgroup.net  
- info-th@ifbgroup.net 
- info-vn@ifbgroup.net.vn 
+info-my@ifbgroup.net 
+info-my@ifbgroup.net 
+shawn-sg@ifbgroup.net 
+info-sg@ifbgroup.net  
+info-th@ifbgroup.net 
+info-vn@ifbgroup.net.vn 
 info-hanvn@ifbgroup.net.vn
 
+sandy.shen@eiffsz.com.cn
+ken.ng@eiffsz.com.cn
+ternity@eiffhkg.com.hk
+dennis@eiffsha.com.cn
+terry@eiffxmn.com.cn
+kenneth@eiffguz.com.cn
+robin@eiffngb.com
+ vincent@eiffnjg.com.cn
+ terry@eiffcqg.com.cn
+ nick.huang@eiffqdo.com.cn
+ john@eifftjn.com.cn
+ terry@eiffwuh.com.cn
+ Brenda@ms2.eifftwn.com
+ teresa@ms2.eifftwn.com
