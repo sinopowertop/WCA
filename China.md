@@ -339,3 +339,17 @@ robin@eiffngb.com
  terry@eiffwuh.com.cn
  Brenda@ms2.eifftwn.com
  teresa@ms2.eifftwn.com
+ tony@ymdcpa.com
+ anny_he@ensign.com.cn
+ chengdu@ensignfreight.com
+ dalian@ensignfreight.com
+ fuzhou@ensignfreight.com
+ guangzhou@ensignfreight.com
+ nanjing@ensignfreight.com
+ ningbo@ensignfreight.com
+ qingdao@ensignfreight.com
+ shanghai@ensignfreight.com
+ shenzhen@ensignfreight.com
+ suzhou@ensignfreight.com
+ tianjin@ensignfreight.com
+ xiamen@ensignfreight.com
