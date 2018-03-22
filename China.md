@@ -353,3 +353,17 @@ robin@eiffngb.com
  suzhou@ensignfreight.com
  tianjin@ensignfreight.com
  xiamen@ensignfreight.com
+ kanny.sha@unionpower.com
+ info@unionpower.com
+warehouse@unionpower.com
+shanghai@unionpower.com
+ningbo@unionpower.com
+shenzhen@unionpower.com
+xiamen@unionpower.com
+kuala_lumpur@unionpower.com
+india@unionpower.com
+mumbai@unionpower.com
+chennai@unionpower.com
+bangkok@unionpower.com
+valencia@raminatrans.com
+alicante@raminatrans.com
