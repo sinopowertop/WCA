@@ -13,15 +13,29 @@ transportleh@coscon.fr
 gtauvel@cosco.fr
 m.vandame@lposogena.com
 v.poret@lposogena.com
-
-	v.bradea@jamein.fr
-  	s.malandain@jamein.fr
-    	b.decarheil@fauveder.com
-      	a.guenan@fauveder.com
-        	m.jiang@fauveder.com.cn
-          	all@tramar-sa.fr
-            	sac@tramar-sa.fr
-              	pst@tramar-sa.fr
-                	a.guillet@alaine.fr
+v.bradea@jamein.fr
+s.malandain@jamein.fr
+b.decarheil@fauveder.com
+a.guenan@fauveder.com
+m.jiang@fauveder.com.cn
+all@tramar-sa.fr
+sac@tramar-sa.fr
+pst@tramar-sa.fr
+a.guillet@alaine.fr
                   
-                  ALAINE OVERSEAS
+ALAINE OVERSEAS
+audreypascal@lyseo.com
+info@globalaffinityalliance.com
+muge.alanbay@fmigroupe-france.com
+philippe.vincent@fmigroupe.com
+cballadur@hb-international.com
+jmleprovost@hb-international.com
+inchelin@hb-international.com
+ops@prolog-group.com
+pachy@prolog-group.com
+export@prolog-group.com
+wca@mathezfreight.com
+w.haji@monacologistique.mc
+anniesemer@monacologistique.mc
+j.bizi@monacologistique.mc
+k.hery@monacologistique.mc
