@@ -109,4 +109,14 @@ amale.dubuc@airsea-intl.com
 melanie.nicolas@airsea-intl.com
 caroline.bailloux@airsea-intl.com
 
-Airsea International 
+amana@amanacargo.fr
+soniadifallah@amanacargo.fr
+samirdifallah@amanacargo.fr
+s.belkacemi@bbl-cargo.com
+m.bouchkou@bbl-cargo.com
+s.belkacemi@bbl-cargo.com
+s.belkacemi@bbl-cargo.com
+m.bouchkou@bbl-cargo.com
+s.belkacemi@bbl-cargo.com
+
+BBL CARGO single-shareholde
