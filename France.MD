@@ -62,3 +62,14 @@ c.macginley@epsp.fr
 	customerservice@easy-freight.fr
   franck@easy-freight.fr
   	marie@easy-freight.fr
+pricing@evertrans.fr
+faabouzrou@fci-cie.com 
+dmandil@fci-cie.com
+zfrata@fci-cie.com
+importdept@fci-cie.com
+fcioperations@fci-cie.com
+rciesielska@fci-cie.com
+rciesielska@fci-cie.com
+exportdept2@fci-cie.com
+faabouzrou@fci-cie.com
+France Cargo International
