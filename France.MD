@@ -21,9 +21,7 @@ m.jiang@fauveder.com.cn
 all@tramar-sa.fr
 sac@tramar-sa.fr
 pst@tramar-sa.fr
-a.guillet@alaine.fr
-                  
-ALAINE OVERSEAS
+a.guillet@alaine.fr               
 audreypascal@lyseo.com
 info@globalaffinityalliance.com
 muge.alanbay@fmigroupe-france.com
@@ -39,3 +37,28 @@ w.haji@monacologistique.mc
 anniesemer@monacologistique.mc
 j.bizi@monacologistique.mc
 k.hery@monacologistique.mc
+Monaco Logistique 
+
+aji@ajinter.com
+cmoritz@ajinter.com
+ccurot@ajinter.com
+eguez@ajinter.com
+blecornet@ajinter.com
+ggorut@ajinter.com
+anis.bacha@ats-inter.com
+clara.neji@ats-inter.com
+mremy@bansard.com
+laouny@bansard.com
+elefaucheur@bansard.com
+jamassida@bansard.com
+
+fmasson@csfreightsolutions.fr
+jcmelin@csfreightsolutions.fr
+jdufour@csfreightsolutions.fr
+mmaysonnave@csfreightsolutions.fr
+s.labidi@epsp.fr
+m.jamel@epsp.fr
+c.macginley@epsp.fr
+	customerservice@easy-freight.fr
+  franck@easy-freight.fr
+  	marie@easy-freight.fr
