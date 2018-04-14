@@ -98,3 +98,15 @@ pmoledda@stpicargo.com
 crenouard@stpicargo.com
 erovira@stpicargo.com
 agoyaux@stpicargo.com
+
+mickael@tbifrance.com
+yoann@tbifrance.com
+
+max.hatchwell@airsea-intl.com
+max.hatchwell@airsea-intl.com
+laurence.riviere@airsea-intl.com
+amale.dubuc@airsea-intl.com
+melanie.nicolas@airsea-intl.com
+caroline.bailloux@airsea-intl.com
+
+Airsea International 
