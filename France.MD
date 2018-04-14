@@ -37,8 +37,6 @@ w.haji@monacologistique.mc
 anniesemer@monacologistique.mc
 j.bizi@monacologistique.mc
 k.hery@monacologistique.mc
-Monaco Logistique 
-
 aji@ajinter.com
 cmoritz@ajinter.com
 ccurot@ajinter.com
