@@ -120,3 +120,36 @@ m.bouchkou@bbl-cargo.com
 s.belkacemi@bbl-cargo.com
 
 BBL CARGO single-shareholde
+chantal@taftrans.fr; francois@taftrans.fr
+chantal@taftrans.fr
+francois@taftrans.fr
+aog@prodexworldwide.com
+aperdriat@prodexworldwide.com
+aberekbaum@prodexworldwide.com
+l.meloni@centrimex.com
+p.pugi@centrimex.com
+stephane.touboulic@fr.allportcargoservices.com
+stephane.touboulic@fr.allportcargoservices.com
+Gonzague.bureau@fr.allportcargoservices.com
+bordeaux@bansard.com
+mremy@bansard.com
+laouny@bansard.com
+elefaucheur@bansard.com
+jamassida@bansard.com
+a.raguenes@fauveder.com
+i.briand@fauveder.com
+b.decarheil@fauveder.com
+a.guenan@fauveder.com
+stephane.touboulic@fr.allportcargoservices.com
+Gonzague.bureau@fr.allportcargoservices.com
+caroline@merzario.fr
+bo@merzario.fr
+lehavre@centrimex.com
+customerservice@easy-freight.fr
+marie@easy-freight.fr
+franck@easy-freight.fr
+tarek.zaki@qualitairsea.com
+stephanie.hauguel@qualitairsea.com
+caroline.haudrechy@qualitairsea.com
+tarek.zaki@qualitairsea.com
+ 
