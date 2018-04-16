@@ -152,4 +152,5 @@ tarek.zaki@qualitairsea.com
 stephanie.hauguel@qualitairsea.com
 caroline.haudrechy@qualitairsea.com
 tarek.zaki@qualitairsea.com
- 
+sandro.hofer@panalpina.com
+
