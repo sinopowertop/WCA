@@ -394,3 +394,4 @@ info.mexico@panalpina.com
 info.czechrepublic@panalpina.com
 info.denmark@panalpina.com
 info.middleamerica@panalpina.com
+Norman.Guo@panalpina
