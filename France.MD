@@ -154,3 +154,5 @@ caroline.haudrechy@qualitairsea.com
 tarek.zaki@qualitairsea.com
 sandro.hofer@panalpina.com
 sara.vermeulen@panalpina.com
+darjana.gruenberg@kroll-international.de
+gmartinez@tradewings.cl
