@@ -87,14 +87,14 @@ jandy.sun@zephyrlogistics.com
 christina.ma@zephyrlogistics.com
 
 cathyhou@tigerfreight.com.cn
-	tina@vonder.com.cn
-  	zhangming@vonder.com.cn
-    	zhengli@uni-data.com.cn
-      	luderui@uni-data.com.cn
-        gloria.he@transolution.com.cn
-        	gloria.he@transolution.com.cn
-          	zhangtao@transdragon.com.cn
-            	fengxs@transdragon.com.cn
+tina@vonder.com.cn
+zhangming@vonder.com.cn
+zhengli@uni-data.com.cn
+luderui@uni-data.com.cn
+gloria.he@transolution.com.cn
+gloria.he@transolution.com.cn
+zhangtao@transdragon.com.cn
+fengxs@transdragon.com.cn
 chenxiwen@sinotrans.com
 longxy@sinoair.com
 zhanggd@sinoair.com
@@ -177,11 +177,11 @@ williamhan@wxfaster.com
 shelleyxu@wxfaster.com
 panyt.wux@syntrans.com
 shenyf@wjilp.com
-	duxj@wjilp.com
+duxj@wjilp.com
 lindamo@jd-link.com
-	carmenzang@jd-link.com
-		lukejiang@jd-link.com
-		
+carmenzang@jd-link.com
+lukejiang@jd-link.com
+
 sales.cc@fordpointer.com
 maryj.cc@fordpointer.com
 cissy.chen@abifreight.com
@@ -332,29 +332,29 @@ dennis@eiffsha.com.cn
 terry@eiffxmn.com.cn
 kenneth@eiffguz.com.cn
 robin@eiffngb.com
- vincent@eiffnjg.com.cn
- terry@eiffcqg.com.cn
- nick.huang@eiffqdo.com.cn
- john@eifftjn.com.cn
- terry@eiffwuh.com.cn
- Brenda@ms2.eifftwn.com
- teresa@ms2.eifftwn.com
- tony@ymdcpa.com
- anny_he@ensign.com.cn
- chengdu@ensignfreight.com
- dalian@ensignfreight.com
- fuzhou@ensignfreight.com
- guangzhou@ensignfreight.com
- nanjing@ensignfreight.com
- ningbo@ensignfreight.com
- qingdao@ensignfreight.com
- shanghai@ensignfreight.com
- shenzhen@ensignfreight.com
- suzhou@ensignfreight.com
- tianjin@ensignfreight.com
- xiamen@ensignfreight.com
- kanny.sha@unionpower.com
- info@unionpower.com
+vincent@eiffnjg.com.cn
+terry@eiffcqg.com.cn
+nick.huang@eiffqdo.com.cn
+john@eifftjn.com.cn
+terry@eiffwuh.com.cn
+Brenda@ms2.eifftwn.com
+teresa@ms2.eifftwn.com
+tony@ymdcpa.com
+anny_he@ensign.com.cn
+chengdu@ensignfreight.com
+dalian@ensignfreight.com
+fuzhou@ensignfreight.com
+guangzhou@ensignfreight.com
+nanjing@ensignfreight.com
+ningbo@ensignfreight.com
+qingdao@ensignfreight.com
+shanghai@ensignfreight.com
+shenzhen@ensignfreight.com
+suzhou@ensignfreight.com
+tianjin@ensignfreight.com
+xiamen@ensignfreight.com
+kanny.sha@unionpower.com
+info@unionpower.com
 warehouse@unionpower.com
 shanghai@unionpower.com
 ningbo@unionpower.com
@@ -367,3 +367,30 @@ chennai@unionpower.com
 bangkok@unionpower.com
 valencia@raminatrans.com
 alicante@raminatrans.com
+info.angola@panalpina.com
+info.mercosur@panalpina.com
+ar-projects@panalpina.com
+info.oceania@panalpina.com
+info.vienna@panalpina.com
+info.graz@panalpina.com
+info.switzerland@panalpina.com
+info.innsbruck@panalpina.com
+info.linz@panalpina.com
+info.azerbaijan@panalpina.com
+info.bahrain@panalpina.com
+info.belgium@panalpina.com
+info.mercosur@panalpina.com
+info.brazil@panalpina.com
+info.canada@panalpina.com
+info.mercosur@panalpina.com
+info.greaterchina@panalpina.com
+info.greaterchina@panalpina.com
+info.greaterchina@panalpina.com
+info.greaterchina@panalpina.com
+info.andina@panalpina.com
+info.middleamerica@panalpina.com
+info.croatia@panalpina.com
+info.mexico@panalpina.com
+info.czechrepublic@panalpina.com
+info.denmark@panalpina.com
+info.middleamerica@panalpina.com
