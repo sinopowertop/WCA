@@ -11,9 +11,7 @@ vie-ocean@cargomind.com
 seafreight@speditions-partner.at
 airfreight@speditions-partner.at
 patrick.rofner@jcl-logistics.com
-eva.winkler@abc-airsea.com
 plgdy@abc-airsea.com
-eva.winkler@abc-airsea.com
 beanr@abc-airsea.com
 nlrtm@abc-airsea.com
 deham@abc-airsea.com
