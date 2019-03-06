@@ -118,7 +118,7 @@ s.belkacemi@bbl-cargo.com
 s.belkacemi@bbl-cargo.com
 m.bouchkou@bbl-cargo.com
 s.belkacemi@bbl-cargo.com
-
+michel.couvez@firstinox.fr
 BBL CARGO single-shareholde
 chantal@taftrans.fr; francois@taftrans.fr
 chantal@taftrans.fr
