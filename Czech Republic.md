@@ -16,3 +16,4 @@ seafreight@mediasped.cz
 lucie.skrepkova@cz.ilg-group.com
 andrea.jezkova@cz.ilg-group.com
 eva.winkler@abc-airsea.com
+ellen@herbertwatson.co.uk
