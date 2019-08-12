@@ -218,3 +218,8 @@ info-es@ifbgroup.net
 shinjiglobal@daum.net
 jacky@shinjiglobal.com
 ewa@turktransport.co.uk 
+D.Scheffel<D.Scheffel@group-7.de>
+Sandra.Bock@elsen-logistics.com
+s.rieck@rieck-logistik.de
+Pawel.Jaremczuk<Pawel.Jaremczuk@Cevalogistics.com>
+Olivier@expospeed.de 
