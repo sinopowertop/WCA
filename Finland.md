@@ -11,3 +11,7 @@ JonarSalesDep@jonar.is
 seafreightdep@jonar.is
 jonarreception@jonar.is
 reykjavik@bws.dk
+Anjnee@sp-international.co.uk
+Natasha@sp-international.co.uk
+operations@sp-international.co.uk
+warehpusespi@sp-international.co.uk
