@@ -223,3 +223,4 @@ Sandra.Bock@elsen-logistics.com
 s.rieck@rieck-logistik.de
 Pawel.Jaremczuk<Pawel.Jaremczuk@Cevalogistics.com>
 Olivier@expospeed.de 
+JANUSZ.BULINSKI<JANUSZ.BULINSKI@ASSTRA.COM>
