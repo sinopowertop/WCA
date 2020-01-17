@@ -109,4 +109,9 @@ Sunshine Logistics (Canada) Inc(加拿大)
 ◇Web：http:// www.sunshinelogistics.ca
 ◇地址：Suite 125,  10551 Shellbridge Way,Richmond, BC V6X 2W8, Canada
 
-
+ASSTRA POLSKA SP. Z O.O.
+UL. KRAKOWIAKOW 34 02-255
+WARSZAWA,POLAND VAT:PL8512740201
+ATTN:AMANDA FELSKA
+TEL: +48 58 553 30 15 FAX: +48 58 553 30 15
+E-MAIL:AMANDA.FELSKA@ASSTRA.COM
