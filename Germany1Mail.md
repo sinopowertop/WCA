@@ -224,3 +224,6 @@ s.rieck@rieck-logistik.de
 Pawel.Jaremczuk<Pawel.Jaremczuk@Cevalogistics.com>
 Olivier@expospeed.de 
 JANUSZ.BULINSKI<JANUSZ.BULINSKI@ASSTRA.COM>
+
+WAVE LOGISTIC S.R.O.
+KUBANSKE NAMESTI 1391/11 100 00 PRAHA
