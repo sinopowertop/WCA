@@ -1,0 +1,24 @@
+info@pelikantransport.com
+import@pelikantransport.com
+export@pelikantransport.com
+gmataj@pelikantransport.com
+axholi@pelikantransport.com
+finance@pelikantransport.com
+ info@internationaltrans06.com
+s.lamaj@internationaltrans06.com
+t.lamaj@internationaltrans06.com
+a.balla@internationaltrans06.com
+ tia@blackthorneit.com
+ lbahtiri@blackthorneit.com
+ gogrady@blackthorneit.com
+ tirana@interliner-agencies.com
+ vlatko.hristovski@interliner-agencies.com
+ ledio.saliko@milsped.com
+ ledio.saliko@milsped.com
+ albania@sba-group.net
+ makis.mavroeidis@sba-group.net
+ arben.lapi@sba-group.net
+ albana.hoxha@sba-group.net
+ xhovana.musagalliu@sba-group.net
+ jani.miska@sba-group.net
+ arjola.rrogozi@sba-group.net
