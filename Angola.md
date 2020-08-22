@@ -1,0 +1,13 @@
+info.angola@olicargo.com
+jose.pedro@olicargo.com
+ogs.luanda@olicargo.com
+ogs.lobito@olicargo.com
+ogs.cabinda@olicargo.com
+angola.pricing@olicargo.com
+rodolfo.santos@rangel.com
+rui.morna@rangel.com
+angoladesk@tibagroup.com
+sdeleu@tibagroup.com
+network-corporate@tibagroup.com
+eneto@tibagroup.com
+paurodrigues@tibagroup.com
