@@ -24,3 +24,8 @@ accounts@sccargo.com.au
 steve@visionint.com.au
 info@visionint.com.au
 WRylands@stockwells.com.au
+peter@aspglobal.com.au
+julijana@aspglobal.com.au
+peter@aspglobal.com.au
+richard.li@auklogistics.com
+lucia.liu@auklogistics.com
