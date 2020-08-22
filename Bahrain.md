@@ -1,0 +1,92 @@
+cargo@bmmi.com.bh
+bssops@bmmi.com.bh
+mmarhoon@bmmi.com.bh
+hventer@bmmi.com.bh
+mlatheef@BMMI.com.bh
+bdm@aero-surf.com
+john.gerald@aero-surf.com
+john.patrick@aero-surf.com
+ff@shippingbahrain.com
+mgr.ff@shippingbahrain.com
+srmgr.ff@shippingbahrain.com
+info@aquaairlogistics.me
+mgmt@aquaairlogistics.me
+accounts@bybloslogistics.com
+charlie@bybloslogistics.com
+marketing@bybloslogistics.com
+accounts@bybloslogistics.com
+shelil@cfsbh.com
+shelil@cfsbh.com
+sanaa@cfsbh.com
+rijas@cfsbh.com
+subash@cfsbh.com
+nora@cfsbh.com
+svd@cfsbh.com
+shafeeq@cfsbh.com
+mish@cfsbh.com
+cs.bah@cfsbh.com
+info@hqlbahrain.com
+thabiq@hqlbahrain.com
+mjdurazi@hqlbahrain.com
+shipcare@intercol.com
+eldo.shipcare@intercol.com
+ginzy.shipcare@intercol.com
+praveen.shipcare@intercol.com
+info.transgulfmaritime.com
+roshan@transgulfmaritime.com
+melwyn@transgulfmaritime.com
+shahid@transgulfmaritime.com
+donna@turk.bh; logistics@turk.bh
+donna@turk.bh
+freight@dadabhaicargo.com
+syed@dadabhaicargo.com
+alimansoor@dadabhaicargo.com
+bahrain@fakhroshipping.com
+ajith.desapriya@fakhroshipping.com
+bah.ops@iqsgsc.com
+luai@iqsgsc.com
+wassim.aleid@iqsgsc.com
+Bah.team@safewayxp.com
+Jalal.akbar@safewayxp.com
+Hasan.yahya@safewayxp.com
+sm@altalibshipping.com
+infobah@altalibshipping.co
+bineesh@altalibshipping.com
+atsseafreight@altalibshipping.com
+WSS.BAHRAIN.WCA@wilhelmsen.com
+Anvar.Nahas@wilhelmsen.com
+John.Varghese@wilhelmsen.com
+Ricardo.Droza@wilhelmsen.com
+Himmat.Ahlawat@wilhelmsen.com
+shaymaa.said@postaplus.com
+bahfreightops@postaplus.com
+samer.darwish@postaplus.com
+hanaa.yousef@neckt.com
+bahfreightops@postaplus.com
+jaffer.shaban@postaplus.com
+ahmed.helmy@postaplus.com
+bahaccounts@postaplus.com
+ckfbahrain@charleskendall.com
+mgurrala@charleskendall.com
+manoj.aravind@deugro.com
+lijin.poyil@deugro.com
+info.bah@fllogistics.com
+afsal@fllogistics.com
+vivian@fllogistics.com
+bpnassar@fllogistics.com
+marketing4@fllogistics.com
+inq.wca@fllogistics.com
+dinker@fllogistics.com
+vikas@fllogistics.com
+ravi@fllogistics.com
+gnc@fllogistics.com
+aswathi@fllogistics.com
+ginto@fllogistics.com
+guru@fllogistics.com
+	info@frontlinerelo.com
+  	afsal@fllogistics.com
+    	biju@frontlinerelo.com
+      bahsales1@atsworld.co
+      bahdoc@atsworld.co
+      p.subandh@atsworld.co
+      natasha.dmello@atsworld.co
